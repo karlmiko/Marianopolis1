@@ -1,0 +1,46 @@
+Loading word list from file...
+   55909 words loaded.
+Welcome to the game Hangman!
+I am thinking of a word that is 8 letters long.
+
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: e
+Good guess: _ _ _ e _ _ _ _
+
+You have 8 guesses left.
+Available letters: abcdfghijklmnopqrstuvwxyz
+Please guess a letter: a
+Good guess: a _ _ e _ _ a _
+
+You have 8 guesses left.
+Available letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: i
+Good guess: a _ _ e _ i a _
+
+You have 8 guesses left.
+Available letters: bcdfghjklmnopqrstuvwxyz
+Please guess a letter: o
+Oops! That letter is not in my word:  a _ _ e _ i a _
+
+You have 7 guesses left.
+Available letters: bcdfghjklmnpqrstuvwxyz
+Please guess a letter: p
+Oops! That letter is not in my word:  a _ _ e _ i a _
+
+You have 6 guesses left.
+Available letters: bcdfghjklmnqrstuvwxyz
+Please guess a letter: n
+Good guess: a _ n e _ i a _
+
+You have 6 guesses left.
+Available letters: bcdfghjklmqrstuvwxyz
+Please guess a letter: s
+Good guess: a _ n e s i a s
+
+You have 6 guesses left.
+Available letters: bcdfghjklmqrtuvwxyz
+Please guess a letter: m
+Good guess: a m n e s i a s
+
+Congratulations, you won!
